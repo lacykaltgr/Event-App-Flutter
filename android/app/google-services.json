@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "131704595055",
+    "project_id": "campfire-f336b",
+    "storage_bucket": "campfire-f336b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131704595055:android:324b8652bf5a041b0ae39a",
+        "android_client_info": {
+          "package_name": "com.laszlofreund.campfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131704595055-st5ntgehb84qjrvgh7mcef6ms74edk76.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.laszlofreund.campfire",
+            "certificate_hash": "bba127da12b587c47a7d37a28cff49cbd8eb0f68"
+          }
+        },
+        {
+          "client_id": "131704595055-973pgb5igtjnohi6tn0q3609j5rcbvco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ8fa0tJB1psTTBBMZK4eOLOCO64RI3rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131704595055-973pgb5igtjnohi6tn0q3609j5rcbvco.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
